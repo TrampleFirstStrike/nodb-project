@@ -10,7 +10,7 @@ body {
 
 .favorites__list {
   list-style: none;
-  color: white;
+  color: black;
   display: inline-block;
 }
 
@@ -28,6 +28,6 @@ body {
 }
 
 .landing-page__button-container {
-  color: white;
+  color:black;
   padding: 20px 40px;
 }
