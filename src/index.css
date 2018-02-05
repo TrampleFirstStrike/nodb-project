@@ -1,0 +1,33 @@
+body {
+  margin: 5px;
+  padding: 5px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.favorites__title {
+  color: black;
+}
+
+.favorites__list {
+  list-style: none;
+  color: white;
+  display: inline-block;
+}
+
+.favorites__list li {
+  padding-bottom: 30px;
+}
+
+.favorites__list li p {
+  margin: 0 20px 0 0;
+  float: left;
+}
+
+.favorites__list li button {
+  float: left; 
+}
+
+.landing-page__button-container {
+  color: white;
+  padding: 20px 40px;
+}

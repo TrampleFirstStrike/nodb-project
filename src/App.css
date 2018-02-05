@@ -1,0 +1,41 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  background-image: url('./images/background.jpg');
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  height: 150px;
+  padding: 60px 20px 20px 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 60px;
+  font-family: 'Poiret One', cursive;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
